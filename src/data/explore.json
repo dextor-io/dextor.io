@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI-Powered Task Manager",
+      "description": "A smart task management system that uses AI to prioritize and suggest tasks based on user behavior and deadlines.",
+      "category": "Productivity",
+      "status": "Live",
+      "tech": ["React", "Node.js", "TensorFlow.js", "MongoDB"],
+      "github": "https://github.com/example/ai-task-manager",
+      "demo": "https://ai-task-manager-demo.com",
+      "iconName": "LayoutDashboard"
+    },
+    {
+      "id": 2,
+      "title": "Blockchain Voting System",
+      "description": "A secure and transparent voting system built on blockchain technology to ensure tamper-proof elections.",
+      "category": "Blockchain",
+      "status": "Code",
+      "tech": ["Solidity", "Ethereum", "Web3.js", "React"],
+      "github": "https://github.com/example/blockchain-voting",
+      "demo": null,
+      "iconName": "Cpu"
+    },
+    {
+      "id": 3,
+      "title": "AR Home Decorator",
+      "description": "An augmented reality app that allows users to visualize furniture and decor in their home before purchasing.",
+      "category": "AR/VR",
+      "status": "Live",
+      "tech": ["Unity", "ARKit", "ARCore", "C#"],
+      "github": "https://github.com/example/ar-home-decorator",
+      "demo": "https://ar-home-decorator.com",
+      "iconName": "Home"
+    },
+    {
+      "id": 4,
+      "title": "Eco-Friendly Travel Planner",
+      "description": "A travel planning app that helps users create itineraries with the lowest carbon footprint.",
+      "category": "Travel",
+      "status": "Code",
+      "tech": ["Vue.js", "Express", "PostgreSQL", "Google Maps API"],
+      "github": "https://github.com/example/eco-travel-planner",
+      "demo": null,
+      "iconName": "Globe"
+    },
+    {
+      "id": 5,
+      "title": "Decentralized Social Media Platform",
+      "description": "A social media platform built on decentralized technologies to ensure user privacy and data ownership.",
+      "category": "Social",
+      "status": "Live",
+      "tech": ["React", "IPFS", "Ethereum", "GraphQL"],
+      "github": "https://github.com/example/decentralized-social",
+      "demo": "https://decentralized-social.com",
+      "iconName": "Code"
+    }
+  ]
+}

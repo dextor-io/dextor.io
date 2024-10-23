@@ -4,22 +4,22 @@ import { Github } from 'lucide-react';
 const HeroSection = () => {
   return (
     <div className="relative overflow-hidden bg-gray-900">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center">
-        <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in">
-          MVP Showcase<span className="text-blue-500">.</span>
+      <div className="px-4 pt-20 pb-16 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
+        <h1 className="mb-6 text-5xl font-bold text-white md:text-7xl animate-fade-in">
+          lab.dextor<span className="text-blue-500">.io</span>
         </h1>
-        <p className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
+        <p className="max-w-3xl mx-auto mb-8 text-xl text-gray-300">
           A collection of innovative projects and ideas brought to life.
         </p>
         <div className="flex justify-center gap-4">
-          <button className="bg-blue-500 text-white px-8 py-3 rounded-lg hover:bg-blue-600 transition-colors">
+          <button className="px-8 py-3 text-white transition-colors bg-blue-500 rounded-lg hover:bg-blue-600">
             View Projects
           </button>
           <a 
-            href="https://github.com" 
+            href="https://github.com/dextor-io/dextor.io" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center gap-2 bg-gray-800 text-white px-8 py-3 rounded-lg hover:bg-gray-700 transition-colors"
+            className="flex items-center gap-2 px-8 py-3 text-white transition-colors bg-gray-800 rounded-lg hover:bg-gray-700"
           >
             <Github className="w-5 h-5" />
             GitHub

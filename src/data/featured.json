@@ -1,0 +1,85 @@
+{
+    "ideas": [
+      {
+        "id": 1,
+        "title": "AI Chat Assistant",
+        "description": "Natural language processing bot that helps with customer queries",
+        "iconName": "Cpu",
+        "tech": ["React", "OpenAI", "Node.js"],
+        "status": "Live",
+        "github": "https://github.com/example/ai-chat",
+        "demo": "https://demo.example.com/ai-chat",
+        "category": "AI/ML",
+        "lastUpdated": "2024-03-15"
+      },
+      {
+        "id": 2,
+        "title": "E-commerce Platform",
+        "description": "Modern marketplace with real-time inventory management",
+        "iconName": "Globe",
+        "tech": ["React", "MongoDB", "Express"],
+        "status": "Live",
+        "github": "https://github.com/example/ecommerce",
+        "demo": "https://demo.example.com/ecommerce",
+        "category": "Web Application",
+        "lastUpdated": "2024-02-28"
+      },
+      {
+        "id": 3,
+        "title": "Code Generator",
+        "description": "Transform designs into production-ready code",
+        "iconName": "Code",
+        "tech": ["React", "TypeScript", "AI"],
+        "status": "Live",
+        "github": "https://github.com/example/code-gen",
+        "demo": null,
+        "category": "Developer Tools",
+        "lastUpdated": "2024-03-10"
+      },
+      {
+        "id": 4,
+        "title": "Task Management System",
+        "description": "Collaborative project management tool with real-time updates",
+        "iconName": "LayoutDashboard",
+        "tech": ["React", "Firebase", "Material-UI"],
+        "status": "Code",
+        "github": "https://github.com/example/task-manager",
+        "demo": "https://demo.example.com/task-manager",
+        "category": "Productivity",
+        "lastUpdated": "2024-03-20"
+      },
+      {
+        "id": 5,
+        "title": "Smart Home Dashboard",
+        "description": "IoT device management and monitoring dashboard",
+        "iconName": "Home",
+        "tech": ["React", "Node.js", "MQTT"],
+        "status": "Live",
+        "github": "https://github.com/example/smart-home",
+        "demo": "https://demo.example.com/smart-home",
+        "category": "IoT",
+        "lastUpdated": "2024-03-01"
+      }
+    ],
+    "metadata": {
+      "lastUpdated": "2024-03-20",
+      "categories": [
+        "AI/ML",
+        "Web Application",
+        "Developer Tools",
+        "Productivity",
+        "IoT"
+      ],
+      "techStack": [
+        "React",
+        "OpenAI",
+        "Node.js",
+        "MongoDB",
+        "Express",
+        "TypeScript",
+        "Firebase",
+        "Material-UI",
+        "MQTT"
+      ]
+    }
+  }
