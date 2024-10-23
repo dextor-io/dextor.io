@@ -22,10 +22,14 @@ const MVPShowcase = () => {
         if (!Array.isArray(featuredData.ideas)) {
           throw new Error('Invalid data structure in featured.json');
         }
-        setFeatured(featuredData.ideas);
-        const uniqueCategories = [...new Set(featuredData.ideas.map(featured => featured.category))];
+        // Sort featured ideas by name
+        const sortedFeatured = featuredData.ideas.sort((a, b) => 
+          a.title.localeCompare(b.title)
+        );
+        setFeatured(sortedFeatured);
+        const uniqueCategories = [...new Set(sortedFeatured.map(featured => featured.category))];
         setCategories(['All', ...uniqueCategories]);
-        setFilteredFeatured(featuredData.ideas);
+        setFilteredFeatured(sortedFeatured);
         setIsLoading(false);
       } catch (err) {
         console.error('Error loading MVP data:', err);

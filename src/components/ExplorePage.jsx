@@ -27,10 +27,14 @@ const ExplorePage = () => {
         if (!Array.isArray(exploreData.projects)) {
           throw new Error('Invalid data structure in explore.json');
         }
-        setProjects(exploreData.projects);
-        const uniqueCategories = [...new Set(exploreData.projects.map(project => project.category))];
+        // Sort projects by name
+        const sortedProjects = exploreData.projects.sort((a, b) => 
+          a.title.localeCompare(b.title)
+        );
+        setProjects(sortedProjects);
+        const uniqueCategories = [...new Set(sortedProjects.map(project => project.category))];
         setCategories(['All', ...uniqueCategories]);
-        setFilteredProjects(exploreData.projects);
+        setFilteredProjects(sortedProjects);
         setIsLoading(false);
       } catch (err) {
         console.error('Error loading explore data:', err);

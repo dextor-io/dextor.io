@@ -4,7 +4,7 @@
         "id": 1,
         "title": "Roulette Alias",
         "description": "A fun word-guessing game for parties",
-        "iconName": "Gamepad",
+        "iconName": "Joystick",
         "tech": ["HTML", "CSS", "JavaScript"],
         "status": "Live",
         "github": "https://github.com/abdulmannans/Roulette-Alias",
