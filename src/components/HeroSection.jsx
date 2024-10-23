@@ -6,7 +6,7 @@ const HeroSection = () => {
     <div className="relative overflow-hidden bg-gray-900">
       <div className="px-4 pt-20 pb-16 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
         <h1 className="mb-6 text-5xl font-bold text-white md:text-7xl animate-fade-in">
-          lab.dextor<span className="text-blue-500">.io</span>
+          labs.dextor<span className="text-blue-500">.io</span>
         </h1>
         <p className="max-w-3xl mx-auto mb-8 text-xl text-gray-300">
           A collection of innovative projects and ideas brought to life.
