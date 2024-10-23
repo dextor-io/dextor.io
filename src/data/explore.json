@@ -2,14 +2,15 @@
   "projects": [
     {
       "id": 1,
-      "title": "AI-Powered Task Manager",
-      "description": "A smart task management system that uses AI to prioritize and suggest tasks based on user behavior and deadlines.",
-      "category": "Productivity",
+      "title": "Roulette Alias",
+      "description": "A fun word-guessing game for parties",
+      "iconName": "Gamepad",
+      "tech": ["HTML", "CSS", "JavaScript"],
       "status": "Live",
-      "tech": ["React", "Node.js", "TensorFlow.js", "MongoDB"],
-      "github": "https://github.com/example/ai-task-manager",
-      "demo": "https://ai-task-manager-demo.com",
-      "iconName": "LayoutDashboard"
+      "github": "https://github.com/abdulmannans/Roulette-Alias",
+      "demo": "https://abdulmannans.github.io/Roulette-Alias/",
+      "category": "Web Application",
+      "lastUpdated": "2024-03-15"
     },
     {
       "id": 2,

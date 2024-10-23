@@ -2,14 +2,14 @@
     "ideas": [
       {
         "id": 1,
-        "title": "AI Chat Assistant",
-        "description": "Natural language processing bot that helps with customer queries",
-        "iconName": "Cpu",
-        "tech": ["React", "OpenAI", "Node.js"],
+        "title": "Roulette Alias",
+        "description": "A fun word-guessing game for parties",
+        "iconName": "Gamepad",
+        "tech": ["HTML", "CSS", "JavaScript"],
         "status": "Live",
-        "github": "https://github.com/example/ai-chat",
-        "demo": "https://demo.example.com/ai-chat",
-        "category": "AI/ML",
+        "github": "https://github.com/abdulmannans/Roulette-Alias",
+        "demo": "https://abdulmannans.github.io/Roulette-Alias/",
+        "category": "Web Application",
         "lastUpdated": "2024-03-15"
       },
       {
