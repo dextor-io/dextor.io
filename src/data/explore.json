@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "title": "Roulette Alias",
+      "title": "Roulette Alias ",
       "description": "A fun word-guessing game for parties",
       "iconName": "Joystick",
       "tech": ["HTML", "CSS", "JavaScript"],
