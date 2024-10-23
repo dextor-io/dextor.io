@@ -7,8 +7,8 @@ function Navbar() {
     <nav className="p-4 bg-gray-800">
       <div className="container flex items-center justify-between mx-auto">
         <Link to="/" className="flex items-center">
-          <img src={logo} alt="Dexotr Logo" className="w-auto h-8 mr-2" />
-          <span className="text-xl font-semibold text-white">Dexotr</span>
+          <img src={logo} alt="Dextor Logo" className="w-auto h-8 mr-2" />
+          <span className="text-xl font-semibold text-white">Dextor</span>
         </Link>
         <div className="space-x-4">
           <Link to="/explore" className="flex items-center text-gray-300 hover:text-white">
