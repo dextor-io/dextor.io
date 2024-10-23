@@ -13,15 +13,16 @@
       "lastUpdated": "2024-03-15"
     },
     {
-      "id": 2,
-      "title": "Blockchain Voting System",
-      "description": "A secure and transparent voting system built on blockchain technology to ensure tamper-proof elections.",
-      "category": "Blockchain",
-      "status": "Code",
-      "tech": ["Solidity", "Ethereum", "Web3.js", "React"],
-      "github": "https://github.com/example/blockchain-voting",
-      "demo": null,
-      "iconName": "Cpu"
+        "id": 2,
+        "title": "Portfolio Template",
+        "description": "A customizable portfolio template for developers",
+        "iconName": "Globe",
+        "tech": ["React", "DaisyUI", "Framer Motion", "Tailwind CSS"],
+        "status": "Live",
+        "github": "https://github.com/huzaifsk/portfolio",
+        "demo": "https://portfolio-template-huzaif.vercel.app/",
+        "category": "Web Application",
+        "lastUpdated": "2024-02-28"
     },
     {
       "id": 3,

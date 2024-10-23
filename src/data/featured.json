@@ -14,13 +14,13 @@
       },
       {
         "id": 2,
-        "title": "E-commerce Platform",
-        "description": "Modern marketplace with real-time inventory management",
+        "title": "Portfolio Template",
+        "description": "A customizable portfolio template for developers",
         "iconName": "Globe",
-        "tech": ["React", "MongoDB", "Express"],
+        "tech": ["React", "DaisyUI", "Framer Motion", "Tailwind CSS"],
         "status": "Live",
-        "github": "https://github.com/example/ecommerce",
-        "demo": "https://demo.example.com/ecommerce",
+        "github": "https://github.com/huzaifsk/portfolio",
+        "demo": "https://portfolio-template-huzaif.vercel.app/",
         "category": "Web Application",
         "lastUpdated": "2024-02-28"
       },
