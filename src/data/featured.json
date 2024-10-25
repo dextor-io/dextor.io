@@ -24,18 +24,17 @@
         "category": "Web Application",
         "lastUpdated": "2024-02-28"
       },
-      {
-        "id": 3,
-        "title": "Code Generator",
-        "description": "Transform designs into production-ready code",
-        "iconName": "Code",
-        "tech": ["React", "TypeScript", "AI"],
-        "status": "Live",
-        "github": "https://github.com/example/code-gen",
-        "demo": null,
-        "category": "Developer Tools",
-        "lastUpdated": "2024-03-10"
-      },
+     {
+      "id": 3,
+      "title": "Engrave",
+      "description": "An Image Generator",
+      "category": "Web Application",
+      "status": "Live",
+      "tech": ["ReactJs"],
+      "github": "https://github.com/dextor-io/engrave.dextor.io",
+      "demo": "https://engrave.dextor.io/",
+      "iconName": "Home"
+    },
       {
         "id": 4,
         "title": "Task Management System",
