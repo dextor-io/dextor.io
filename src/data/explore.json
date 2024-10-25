@@ -24,15 +24,15 @@
         "category": "Web Application",
         "lastUpdated": "2024-02-28"
     },
-    {
+   {
       "id": 3,
-      "title": "AR Home Decorator",
-      "description": "An augmented reality app that allows users to visualize furniture and decor in their home before purchasing.",
-      "category": "AR/VR",
+      "title": "Engrave",
+      "description": "An Image Generator",
+      "category": "Web Application",
       "status": "Live",
-      "tech": ["Unity", "ARKit", "ARCore", "C#"],
-      "github": "https://github.com/example/ar-home-decorator",
-      "demo": "https://ar-home-decorator.com",
+      "tech": ["ReactJs"],
+      "github": "https://github.com/dextor-io/engrave.dextor.io",
+      "demo": "https://engrave.dextor.io/",
       "iconName": "Home"
     },
     {
