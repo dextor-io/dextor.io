@@ -1,12 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    fontFamily: {
+      helvetica: ["Helvetica", "sans-serif"],
+      helveticaBold: ["Helvetica-Bold", "sans-serif"],
+    },
   },
   plugins: [],
-}
-
+};

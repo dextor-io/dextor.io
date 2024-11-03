@@ -1,14 +1,17 @@
-import React from 'react';
-import { Search } from 'lucide-react';
+import React from "react";
+import { Search } from "lucide-react";
 
 const SearchBar = ({ value, onChange, placeholder }) => {
   return (
     <div className="relative flex-1">
-      <Search className="absolute text-gray-400 transform -translate-y-1/2 left-3 top-1/2" size={20} />
+      <Search
+        className="absolute text-gray-400 transform -translate-y-1/2 left-3 top-1/2"
+        size={18}
+      />
       <input
         type="text"
         placeholder={placeholder}
-        className="w-full py-2 pl-10 pr-4 text-white bg-gray-800 border border-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+        className="w-full py-2.5 pl-10 pr-4 text-gray-700 bg-white border border-gray-200 rounded-lg shadow-sm transition-all duration-200 placeholder-gray-400 outline-none"
         value={value}
         onChange={onChange}
       />
