@@ -58,6 +58,17 @@
         "demo": "https://demo.example.com/smart-home",
         "category": "IoT",
         "lastUpdated": "2024-03-01"
+      },
+      {
+        "id": 6,
+        "title": "Markdown Editor",
+        "description": "Markdown Editor and Previewer",
+        "category": "Web Application",
+        "status": "Live",
+        "tech": ["ReactJs, TailwindCSS"],
+        "github": "https://github.com/dextor-io/md.dextor.io",
+        "demo": "https://md.dextor.io/",
+        "iconName": "Home"
       }
     ],
     "metadata": {
