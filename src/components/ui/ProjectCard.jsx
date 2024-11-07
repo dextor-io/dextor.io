@@ -16,12 +16,12 @@ const ProjectCard = ({ idea }) => {
 
   return (
     <Card 
-      className="transition-all transform border-gray-700 hover:border-blue-500 hover:-translate-y-1 hover:shadow-xl"
+      className="transition-all transform border-gray-700 hover:border-primary-500 hover:-translate-y-1 hover:shadow-xl"
     >
       <CardHeader>
         <div className="flex items-start justify-between">
           <div className="flex items-center gap-3">
-            <div className="p-3 text-blue-400 rounded-lg bg-blue-500/20">
+            <div className="p-3 text-primary-400 rounded-lg bg-primary-500/20">
               {IconComponent && <IconComponent className="w-6 h-6" />}
             </div>
             <div>
@@ -48,7 +48,7 @@ const ProjectCard = ({ idea }) => {
               href={idea.github}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-2 text-blue-400 hover:text-blue-300"
+              className="flex items-center gap-2 text-primary-400 hover:text-primary-300"
             >
               <Github size={16} />
               GitHub Repository

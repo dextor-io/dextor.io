@@ -6,13 +6,13 @@ const HeroSection = () => {
         <div className="relative overflow-hidden">
             <div className="px-4 pt-20 pb-16 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
                 <h1 className="mb-6 text-5xl font-bold text-black md:text-7xl animate-fade-in">
-                    labs.dextor<span className="text-blue-500">.io</span>
+                    labs.dextor<span className="text-primary-500">.io</span>
                 </h1>
                 <p className="max-w-3xl mx-auto mb-8 text-xl text-gray-500">
                     A collection of innovative projects and ideas brought to life.
                 </p>
                 <div className="flex justify-center gap-4">
-                    <button className="px-8 py-3 text-white transition-colors bg-blue-500 rounded-lg hover:bg-blue-600">
+                    <button className="px-8 py-3 text-white transition-colors bg-primary-500 rounded-lg hover:bg-primary-600">
                         View Projects
                     </button>
                     <a

@@ -6,7 +6,7 @@ function TechTags({techList}) {
         {background: 'bg-pink-200', text: 'text-pink-800'},
         {background: 'bg-yellow-200', text: 'text-yellow-800'},
         {background: 'bg-green-200', text: 'text-green-800'},
-        {background: 'bg-blue-200', text: 'text-blue-800'},
+        {background: 'bg-primary-200', text: 'text-primary-800'},
         {background: 'bg-purple-200', text: 'text-purple-800'},
         {background: 'bg-teal-200', text: 'text-teal-800'},
         {background: 'bg-orange-200', text: 'text-orange-800'},

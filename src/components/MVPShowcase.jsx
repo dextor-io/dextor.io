@@ -60,7 +60,7 @@ const MVPShowcase = () => {
   if (isLoading) {
     return (
       <div className="flex items-center justify-center min-h-[400px]">
-        <div className="text-blue-400">Loading projects...</div>
+        <div className="text-primary-400">Loading projects...</div>
       </div>
     );
   }
