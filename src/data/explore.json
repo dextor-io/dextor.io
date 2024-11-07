@@ -5,7 +5,11 @@
       "title": "Roulette Alias ",
       "description": "A fun word-guessing game for parties",
       "iconName": "Joystick",
-      "tech": ["HTML", "CSS", "JavaScript"],
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "status": "Live",
       "github": "https://github.com/abdulmannans/Roulette-Alias",
       "demo": "https://abdulmannans.github.io/Roulette-Alias/",
@@ -13,24 +17,31 @@
       "lastUpdated": "2024-03-15"
     },
     {
-        "id": 2,
-        "title": "Portfolio Template",
-        "description": "A customizable portfolio template for developers",
-        "iconName": "Globe",
-        "tech": ["React", "DaisyUI", "Framer Motion", "Tailwind CSS"],
-        "status": "Live",
-        "github": "https://github.com/huzaifsk/portfolio",
-        "demo": "https://portfolio-template-huzaif.vercel.app/",
-        "category": "Web Application",
-        "lastUpdated": "2024-02-28"
+      "id": 2,
+      "title": "Portfolio Template",
+      "description": "A customizable portfolio template for developers",
+      "iconName": "Globe",
+      "tech": [
+        "React",
+        "DaisyUI",
+        "Framer Motion",
+        "Tailwind CSS"
+      ],
+      "status": "Live",
+      "github": "https://github.com/huzaifsk/portfolio",
+      "demo": "https://portfolio-template-huzaif.vercel.app/",
+      "category": "Web Application",
+      "lastUpdated": "2024-02-28"
     },
-   {
+    {
       "id": 3,
       "title": "Engrave",
       "description": "An Image Generator",
       "category": "Web Application",
       "status": "Live",
-      "tech": ["ReactJs"],
+      "tech": [
+        "ReactJs"
+      ],
       "github": "https://github.com/dextor-io/engrave.dextor.io",
       "demo": "https://engrave.dextor.io/",
       "iconName": "Home"
@@ -41,7 +52,12 @@
       "description": "A travel planning app that helps users create itineraries with the lowest carbon footprint.",
       "category": "Travel",
       "status": "Code",
-      "tech": ["Vue.js", "Express", "PostgreSQL", "Google Maps API"],
+      "tech": [
+        "Vue.js",
+        "Express",
+        "PostgreSQL",
+        "Google Maps API"
+      ],
       "github": "https://github.com/example/eco-travel-planner",
       "demo": null,
       "iconName": "Globe"
@@ -52,7 +68,12 @@
       "description": "A social media platform built on decentralized technologies to ensure user privacy and data ownership.",
       "category": "Social",
       "status": "Live",
-      "tech": ["React", "IPFS", "Ethereum", "GraphQL"],
+      "tech": [
+        "React",
+        "IPFS",
+        "Ethereum",
+        "GraphQL"
+      ],
       "github": "https://github.com/example/decentralized-social",
       "demo": "https://decentralized-social.com",
       "iconName": "Code"
@@ -63,7 +84,10 @@
       "description": "Markdown Editor and Previewer",
       "category": "Web Application",
       "status": "Live",
-      "tech": ["ReactJs","TailwindCSS"],
+      "tech": [
+        "ReactJs",
+        "TailwindCSS"
+      ],
       "github": "https://github.com/dextor-io/md.dextor.io",
       "demo": "https://md.dextor.io/",
       "iconName": "Home"
