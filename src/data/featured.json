@@ -1,95 +1,117 @@
 {
-    "ideas": [
-      {
-        "id": 1,
-        "title": "Roulette Alias",
-        "description": "A fun word-guessing game for parties",
-        "iconName": "Joystick",
-        "tech": ["HTML", "CSS", "JavaScript"],
-        "status": "Live",
-        "github": "https://github.com/abdulmannans/Roulette-Alias",
-        "demo": "https://abdulmannans.github.io/Roulette-Alias/",
-        "category": "Web Application",
-        "lastUpdated": "2024-03-15"
-      },
-      {
-        "id": 2,
-        "title": "Portfolio Template",
-        "description": "A customizable portfolio template for developers",
-        "iconName": "Globe",
-        "tech": ["React", "DaisyUI", "Framer Motion", "Tailwind CSS"],
-        "status": "Live",
-        "github": "https://github.com/huzaifsk/portfolio",
-        "demo": "https://portfolio-template-huzaif.vercel.app/",
-        "category": "Web Application",
-        "lastUpdated": "2024-02-28"
-      },
-     {
+  "ideas": [
+    {
+      "id": 1,
+      "title": "Roulette Alias",
+      "description": "A fun word-guessing game for parties",
+      "iconName": "Joystick",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "status": "Live",
+      "github": "https://github.com/abdulmannans/Roulette-Alias",
+      "demo": "https://abdulmannans.github.io/Roulette-Alias/",
+      "category": "Web Application",
+      "lastUpdated": "2024-03-15"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Template",
+      "description": "A customizable portfolio template for developers",
+      "iconName": "Globe",
+      "tech": [
+        "React",
+        "DaisyUI",
+        "Framer Motion",
+        "Tailwind CSS"
+      ],
+      "status": "Live",
+      "github": "https://github.com/huzaifsk/portfolio",
+      "demo": "https://portfolio-template-huzaif.vercel.app/",
+      "category": "Web Application",
+      "lastUpdated": "2024-02-28"
+    },
+    {
       "id": 3,
       "title": "Engrave",
       "description": "An Image Generator",
       "category": "Web Application",
       "status": "Live",
-      "tech": ["ReactJs"],
+      "tech": [
+        "ReactJs"
+      ],
       "github": "https://github.com/dextor-io/engrave.dextor.io",
       "demo": "https://engrave.dextor.io/",
       "iconName": "Home"
     },
-      {
-        "id": 4,
-        "title": "Task Management System",
-        "description": "Collaborative project management tool with real-time updates",
-        "iconName": "LayoutDashboard",
-        "tech": ["React", "Firebase", "Material-UI"],
-        "status": "Code",
-        "github": "https://github.com/example/task-manager",
-        "demo": "https://demo.example.com/task-manager",
-        "category": "Productivity",
-        "lastUpdated": "2024-03-20"
-      },
-      {
-        "id": 5,
-        "title": "Smart Home Dashboard",
-        "description": "IoT device management and monitoring dashboard",
-        "iconName": "Home",
-        "tech": ["React", "Node.js", "MQTT"],
-        "status": "Live",
-        "github": "https://github.com/example/smart-home",
-        "demo": "https://demo.example.com/smart-home",
-        "category": "IoT",
-        "lastUpdated": "2024-03-01"
-      },
-      {
-        "id": 6,
-        "title": "Markdown Editor",
-        "description": "Markdown Editor and Previewer",
-        "category": "Web Application",
-        "status": "Live",
-        "tech": ["ReactJs, TailwindCSS"],
-        "github": "https://github.com/dextor-io/md.dextor.io",
-        "demo": "https://md.dextor.io/",
-        "iconName": "Home"
-      }
-    ],
-    "metadata": {
-      "lastUpdated": "2024-03-20",
-      "categories": [
-        "AI/ML",
-        "Web Application",
-        "Developer Tools",
-        "Productivity",
-        "IoT"
-      ],
-      "techStack": [
+    {
+      "id": 4,
+      "title": "Task Management System",
+      "description": "Collaborative project management tool with real-time updates",
+      "iconName": "LayoutDashboard",
+      "tech": [
         "React",
-        "OpenAI",
-        "Node.js",
-        "MongoDB",
-        "Express",
-        "TypeScript",
         "Firebase",
-        "Material-UI",
+        "Material-UI"
+      ],
+      "status": "Code",
+      "github": "https://github.com/example/task-manager",
+      "demo": "https://demo.example.com/task-manager",
+      "category": "Productivity",
+      "lastUpdated": "2024-03-20"
+    },
+    {
+      "id": 5,
+      "title": "Smart Home Dashboard",
+      "description": "IoT device management and monitoring dashboard",
+      "iconName": "Home",
+      "tech": [
+        "React",
+        "Node.js",
         "MQTT"
-      ]
+      ],
+      "status": "Live",
+      "github": "https://github.com/example/smart-home",
+      "demo": "https://demo.example.com/smart-home",
+      "category": "IoT",
+      "lastUpdated": "2024-03-01"
+    },
+    {
+      "id": 6,
+      "title": "Markdown Editor",
+      "description": "Markdown Editor and Previewer",
+      "category": "Web Application",
+      "status": "Live",
+      "tech": [
+        "ReactJs",
+        "TailwindCSS"
+      ],
+      "github": "https://github.com/dextor-io/md.dextor.io",
+      "demo": "https://md.dextor.io/",
+      "iconName": "Home"
     }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-03-20",
+    "categories": [
+      "AI/ML",
+      "Web Application",
+      "Developer Tools",
+      "Productivity",
+      "IoT"
+    ],
+    "techStack": [
+      "React",
+      "OpenAI",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "TypeScript",
+      "Firebase",
+      "Material-UI",
+      "MQTT"
+    ]
   }
+}
