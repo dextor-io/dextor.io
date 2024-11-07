@@ -16,7 +16,7 @@ const ProjectCard = ({ idea }) => {
 
   return (
     <Card 
-      className="transition-all transform bg-white border-gray-700 hover:border-blue-500 hover:-translate-y-1 hover:shadow-xl"
+      className="transition-all transform bg-gray-800 border-gray-700 hover:border-blue-500 hover:-translate-y-1 hover:shadow-xl"
     >
       <CardHeader>
         <div className="flex items-start justify-between">
