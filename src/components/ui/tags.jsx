@@ -19,7 +19,7 @@ function TechTags({techList}) {
                 return (
                     <span
                         key={tech}
-                        className={`px-2 py-1 text-sm ${text} ${background} rounded-md`}
+                        className={`px-2 py-1 text-sm text-primary-700 bg-primary-100 border-[1px] border-primary-400 rounded-md`}
                     >
             {tech}
           </span>
