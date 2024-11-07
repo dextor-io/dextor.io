@@ -1,6 +1,7 @@
 import React from 'react';
 import { Github, Link, Cpu, Globe, Code, LayoutDashboard, Home } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from './card';
+import TechTags from "./tags.jsx";
 
 const IconMap = {
   Cpu: Cpu,
@@ -15,7 +16,7 @@ const ProjectCard = ({ idea }) => {
 
   return (
     <Card 
-      className="transition-all transform bg-gray-800 border-gray-700 hover:border-blue-500 hover:-translate-y-1 hover:shadow-xl"
+      className="transition-all transform bg-white border-gray-700 hover:border-blue-500 hover:-translate-y-1 hover:shadow-xl"
     >
       <CardHeader>
         <div className="flex items-start justify-between">
@@ -39,11 +40,7 @@ const ProjectCard = ({ idea }) => {
       </CardHeader>
       <CardContent>
         <div className="flex flex-wrap gap-2 mb-4">
-          {idea.tech.map(tech => (
-            <span key={tech} className="px-2 py-1 text-sm text-gray-300 bg-gray-700 rounded-md">
-              {tech}
-            </span>
-          ))}
+          <TechTags techList={idea.tech}></TechTags>
         </div>
         <div className="flex flex-col gap-2">
           {idea.github && (
