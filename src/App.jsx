@@ -14,7 +14,7 @@ function App() {
         <title>Dextor</title>
         <link rel="icon" type="image/svg+xml" href={logo} />
       </Helmet>
-      <div className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800">
+      <div className="min-h-screen">
         <Navbar />
         <Routes>
           <Route path="/" element={

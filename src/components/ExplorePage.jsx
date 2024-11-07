@@ -90,7 +90,7 @@ const ExplorePage = () => {
   return (
     <div className="px-4 py-16 mx-auto max-w-7xl sm:px-6 lg:px-8">
       <div className="mb-8">
-        <h2 className="mb-6 text-3xl font-bold text-white">Explore Projects</h2>
+        <h2 className="mb-6 text-3xl font-bold text-black">Explore Projects</h2>
         
         <div className="flex flex-col gap-4 mb-6 sm:flex-row">
           <SearchBar
