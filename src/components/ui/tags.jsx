@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function TechTags({techList}) {
+function Tags({techList}) {
     return (
         <div className="flex flex-wrap gap-2">
             {techList.map((tech) => {
@@ -19,8 +19,8 @@ function TechTags({techList}) {
 }
 
 // Define propTypes for the component
-TechTags.propTypes = {
+Tags.propTypes = {
     techList: PropTypes.arrayOf(PropTypes.string).isRequired,
 };
 
-export default TechTags;
+export default Tags;
