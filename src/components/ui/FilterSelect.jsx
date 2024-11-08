@@ -1,5 +1,3 @@
-import React from 'react';
-
 const FilterSelect = ({value, onChange, options}) => {
     return (
         <select
