@@ -1,6 +1,22 @@
 {
   "ideas": [
     {
+      "id": 7,
+      "title": "Dextor Components",
+      "description": "A react component library made with tailwind",
+      "iconName": "Globe",
+      "tech": [
+        "ReactJs",
+        "Tailwind CSS",
+        "Font Awesome"
+      ],
+      "status": "Live",
+      "github": "https://github.com/dextor-io/components.dextor.io",
+      "demo": "https://components.dextor.io/",
+      "category": "Web Application",
+      "lastUpdated": "2024-04-01"
+    },
+    {
       "id": 1,
       "title": "Roulette Alias",
       "description": "A fun word-guessing game for parties",
