@@ -1,0 +1,512 @@
+[
+  {
+    "utcOffset": "UTC-12:00",
+    "cities": [
+      {
+        "country": "United States",
+        "city": "Baker Island",
+        "flag": "🇺🇸"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-11:00",
+    "cities": [
+      {
+        "country": "American Samoa",
+        "city": "Pago Pago",
+        "flag": "🇦🇸"
+      },
+      {
+        "country": "United States",
+        "city": "Midway Atoll",
+        "flag": "🇺🇸"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-10:00",
+    "cities": [
+      {
+        "country": "United States",
+        "city": "Honolulu",
+        "flag": "🇺🇸"
+      },
+      {
+        "country": "France",
+        "city": "Tahiti",
+        "flag": "🇫🇷"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-09:00",
+    "cities": [
+      {
+        "country": "United States",
+        "city": "Anchorage",
+        "flag": "🇺🇸"
+      },
+      {
+        "country": "Canada",
+        "city": "Yukon",
+        "flag": "🇨🇦"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-08:00",
+    "cities": [
+      {
+        "country": "United States",
+        "city": "Los Angeles",
+        "flag": "🇺🇸"
+      },
+      {
+        "country": "Canada",
+        "city": "Vancouver",
+        "flag": "🇨🇦"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-07:00",
+    "cities": [
+      {
+        "country": "United States",
+        "city": "Denver",
+        "flag": "🇺🇸"
+      },
+      {
+        "country": "Mexico",
+        "city": "Chihuahua",
+        "flag": "🇲🇽"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-06:00",
+    "cities": [
+      {
+        "country": "United States",
+        "city": "Chicago",
+        "flag": "🇺🇸"
+      },
+      {
+        "country": "Mexico",
+        "city": "Mexico City",
+        "flag": "🇲🇽"
+      },
+      {
+        "country": "Canada",
+        "city": "Winnipeg",
+        "flag": "🇨🇦"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-05:00",
+    "cities": [
+      {
+        "country": "United States",
+        "city": "New York",
+        "flag": "🇺🇸"
+      },
+      {
+        "country": "Canada",
+        "city": "Toronto",
+        "flag": "🇨🇦"
+      },
+      {
+        "country": "Mexico",
+        "city": "Cancún",
+        "flag": "🇲🇽"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-04:00",
+    "cities": [
+      {
+        "country": "Venezuela",
+        "city": "Caracas",
+        "flag": "🇻🇪"
+      },
+      {
+        "country": "Dominican Republic",
+        "city": "Santo Domingo",
+        "flag": "🇩🇴"
+      },
+      {
+        "country": "Bolivia",
+        "city": "La Paz",
+        "flag": "🇧🇴"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-03:00",
+    "cities": [
+      {
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "flag": "🇦🇷"
+      },
+      {
+        "country": "Brazil",
+        "city": "São Paulo",
+        "flag": "🇧🇷"
+      },
+      {
+        "country": "Uruguay",
+        "city": "Montevideo",
+        "flag": "🇺🇾"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-02:00",
+    "cities": [
+      {
+        "country": "Brazil",
+        "city": "Fernando de Noronha",
+        "flag": "🇧🇷"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC-01:00",
+    "cities": [
+      {
+        "country": "Portugal",
+        "city": "Azores",
+        "flag": "🇵🇹"
+      },
+      {
+        "country": "Cape Verde",
+        "city": "Praia",
+        "flag": "🇨🇻"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+00:00",
+    "cities": [
+      {
+        "country": "United Kingdom",
+        "city": "London",
+        "flag": "🇬🇧"
+      },
+      {
+        "country": "Ireland",
+        "city": "Dublin",
+        "flag": "🇮🇪"
+      },
+      {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "flag": "🇵🇹"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+01:00",
+    "cities": [
+      {
+        "country": "France",
+        "city": "Paris",
+        "flag": "🇫🇷"
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "flag": "🇩🇪"
+      },
+      {
+        "country": "Spain",
+        "city": "Madrid",
+        "flag": "🇪🇸"
+      },
+      {
+        "country": "Switzerland",
+        "city": "Zurich",
+        "flag": "🇨🇭"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+02:00",
+    "cities": [
+      {
+        "country": "Egypt",
+        "city": "Cairo",
+        "flag": "🇪🇬"
+      },
+      {
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "flag": "🇮🇱"
+      },
+      {
+        "country": "South Africa",
+        "city": "Pretoria",
+        "flag": "🇿🇦"
+      },
+      {
+        "country": "Switzerland",
+        "city": "Zurich",
+        "flag": "🇨🇭"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+03:00",
+    "cities": [
+      {
+        "country": "Russia",
+        "city": "Moscow",
+        "flag": "🇷🇺"
+      },
+      {
+        "country": "Saudi Arabia",
+        "city": "Riyadh",
+        "flag": "🇸🇦"
+      },
+      {
+        "country": "Turkey",
+        "city": "Istanbul",
+        "flag": "🇹🇷"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+03:30",
+    "cities": [
+      {
+        "country": "Iran",
+        "city": "Tehran",
+        "flag": "🇮🇷"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+04:00",
+    "cities": [
+      {
+        "country": "United Arab Emirates",
+        "city": "Dubai",
+        "flag": "🇦🇪"
+      },
+      {
+        "country": "Armenia",
+        "city": "Yerevan",
+        "flag": "🇦🇲"
+      },
+      {
+        "country": "Azerbaijan",
+        "city": "Baku",
+        "flag": "🇦🇿"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+04:30",
+    "cities": [
+      {
+        "country": "Afghanistan",
+        "city": "Kabul",
+        "flag": "🇦🇫"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+05:00",
+    "cities": [
+      {
+        "country": "Pakistan",
+        "city": "Karachi",
+        "flag": "🇵🇰"
+      },
+      {
+        "country": "Uzbekistan",
+        "city": "Tashkent",
+        "flag": "🇺🇿"
+      },
+      {
+        "country": "Kazakhstan",
+        "city": "Almaty",
+        "flag": "🇰🇿"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+05:30",
+    "cities": [
+      {
+        "country": "India",
+        "city": "New Delhi",
+        "flag": "🇮🇳"
+      },
+      {
+        "country": "Sri Lanka",
+        "city": "Colombo",
+        "flag": "🇱🇰"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+06:00",
+    "cities": [
+      {
+        "country": "Kazakhstan",
+        "city": "Astana",
+        "flag": "🇰🇿"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "city": "Bishkek",
+        "flag": "🇰🇬"
+      },
+      {
+        "country": "Bangladesh",
+        "city": "Dhaka",
+        "flag": "🇧🇩"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+06:30",
+    "cities": [
+      {
+        "country": "Myanmar",
+        "city": "Naypyidaw",
+        "flag": "🇲🇲"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+07:00",
+    "cities": [
+      {
+        "country": "Thailand",
+        "city": "Bangkok",
+        "flag": "🇹🇭"
+      },
+      {
+        "country": "Vietnam",
+        "city": "Ho Chi Minh City",
+        "flag": "🇻🇳"
+      },
+      {
+        "country": "Cambodia",
+        "city": "Phnom Penh",
+        "flag": "🇰🇭"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+08:00",
+    "cities": [
+      {
+        "country": "China",
+        "city": "Beijing",
+        "flag": "🇨🇳"
+      },
+      {
+        "country": "Singapore",
+        "city": "Singapore",
+        "flag": "🇸🇬"
+      },
+      {
+        "country": "Malaysia",
+        "city": "Kuala Lumpur",
+        "flag": "🇲🇾"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+09:00",
+    "cities": [
+      {
+        "country": "Japan",
+        "city": "Tokyo",
+        "flag": "🇯🇵"
+      },
+      {
+        "country": "South Korea",
+        "city": "Seoul",
+        "flag": "🇰🇷"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+09:30",
+    "cities": [
+      {
+        "country": "Australia",
+        "city": "Adelaide",
+        "flag": "🇦🇺"
+      },
+      {
+        "country": "Australia",
+        "city": "Darwin",
+        "flag": "🇦🇺"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+10:00",
+    "cities": [
+      {
+        "country": "Australia",
+        "city": "Sydney",
+        "flag": "🇦🇺"
+      },
+      {
+        "country": "Papua New Guinea",
+        "city": "Port Moresby",
+        "flag": "🇵🇬"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+10:30",
+    "cities": [
+      {
+        "country": "Australia",
+        "city": "Lord Howe Island",
+        "flag": "🇦🇺"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+11:00",
+    "cities": [
+      {
+        "country": "Solomon Islands",
+        "city": "Honiara",
+        "flag": "🇸🇧"
+      },
+      {
+        "country": "Vanuatu",
+        "city": "Port Vila",
+        "flag": "🇻🇺"
+      }
+    ]
+  },
+  {
+    "utcOffset": "UTC+12:00",
+    "cities": [
+      {
+        "country": "Kiribati",
+        "city": "Tarawa",
+        "flag": "🇰🇮"
+      },
+      {
+        "country": "Fiji",
+        "city": "Suva",
+        "flag": "🇫🇯"
+      }
+    ]
+  }
+]

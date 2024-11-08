@@ -1,7 +1,7 @@
 import React from 'react';
 import {Code, Cpu, Github, Globe, Home, LayoutDashboard, Link} from 'lucide-react';
 import {Card, CardContent, CardDescription, CardHeader, CardTitle} from './card';
-import TechTags from "./tags.jsx";
+import Tags from "./tags.jsx";
 
 const IconMap = {
     Cpu: Cpu,
@@ -43,7 +43,7 @@ const ProjectCard = ({idea}) => {
 
             <CardContent className="flex flex-col gap-3">
                 <div className="flex flex-wrap gap-2 mb-4">
-                    <TechTags techList={idea.tech}></TechTags>
+                    <Tags techList={idea.tech}></Tags>
                 </div>
 
                 <div className="mt-auto">
