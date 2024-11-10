@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {Filter} from 'lucide-react';
-import exploreData from '../data/explore.json';
+import exploreData from '../data/projects.json';
 import SearchBar from './ui/SearchBar';
 import FilterSelect from './ui/FilterSelect';
 import ProjectCard from './ui/ProjectCard';
@@ -25,7 +25,7 @@ const ExplorePage = () => {
             try {
                 setIsLoading(true);
                 if (!Array.isArray(exploreData.projects)) {
-                    throw new Error('Invalid data structure in explore.json');
+                    throw new Error('Invalid data structure in projects.json');
                 }
                 // Sort projects by name
                 const sortedProjects = exploreData.projects.sort((a, b) =>
