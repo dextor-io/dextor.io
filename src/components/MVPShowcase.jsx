@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {Filter} from 'lucide-react';
-import featuredData from '../data/featured.json';
+import featuredData from '../data/projects.json';
 import SearchBar from './ui/SearchBar';
 import FilterSelect from './ui/FilterSelect';
 import ProjectCard from './ui/ProjectCard';
@@ -19,11 +19,11 @@ const MVPShowcase = () => {
         const loadData = () => {
             try {
                 setIsLoading(true);
-                if (!Array.isArray(featuredData.ideas)) {
+                if (!Array.isArray(featuredData.projects)) {
                     throw new Error('Invalid data structure in featured.json');
                 }
                 // Sort featured ideas by name
-                const sortedFeatured = featuredData.ideas.sort((a, b) =>
+                const sortedFeatured = featuredData.projects.sort((a, b) =>
                     a.title.localeCompare(b.title)
                 );
                 setFeatured(sortedFeatured);
@@ -103,7 +103,7 @@ const MVPShowcase = () => {
             </div>
 
             <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-                {filteredFeatured.map(featured => (
+                {filteredFeatured.filter(project => project.featured === true).map(featured => (
                     <ProjectCard key={featured.id} idea={featured}/>
                 ))}
             </div>

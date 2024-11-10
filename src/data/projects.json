@@ -2,6 +2,7 @@
   "projects": [
     {
       "id": 7,
+      "featured": true,
       "title": "Dextor Components",
       "description": "A react component library made with tailwind",
       "iconName": "Globe",
@@ -51,6 +52,7 @@
     },
     {
       "id": 3,
+      "featured": true,
       "title": "Engrave",
       "description": "An Image Generator",
       "category": "Web Application",
@@ -96,6 +98,7 @@
     },
     {
       "id": 6,
+      "featured": true,
       "title": "Markdown Editor",
       "description": "Markdown Editor and Previewer",
       "category": "Web Application",
@@ -107,7 +110,21 @@
       "github": "https://github.com/dextor-io/md.dextor.io",
       "demo": "https://md.dextor.io/",
       "iconName": "Home"
+    },
+    {
+      "id": 7,
+      "featured": true,
+      "title": "HTML to PDF Converter",
+      "description": "Easily convert HTML content into a downloadable PDF format with this React-based web application.",
+      "category": "Web Application",
+      "status": "Live",
+      "tech": [
+        "ReactJS",
+        "TailwindCSS"
+      ],
+      "github": "https://github.com/dextor-io/labs.dextor.io",
+      "demo": "https://labs.dextor.io/toPdf",
+      "iconName": "Home"
     }
-
   ]
 }
