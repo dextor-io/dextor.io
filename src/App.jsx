@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Navigate, Route, Routes} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import {Helmet} from 'react-helmet';
 import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
@@ -18,7 +18,6 @@ function App() {
             <div className="min-h-screen">
                 <Navbar/>
                 <Routes>
-                    <Route path="/" element={<Navigate to="/" replace/>}/>
                     <Route path="/" element={
                         <>
                             <HeroSection/>
